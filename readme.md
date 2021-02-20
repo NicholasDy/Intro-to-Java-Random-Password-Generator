@@ -9,7 +9,7 @@ Build Status;
 The code is all finished and the console.logs are removed from the code to create a clean look to the code. 
 
 Screenshot;
-![picture](/images/screenshot of the generator.PNG)
+![picture](./images/screenshot of the generator.PNG)
 
 Code Style; 
 HTML, CSS & Javascript
